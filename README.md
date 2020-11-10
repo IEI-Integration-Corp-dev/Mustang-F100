@@ -24,7 +24,7 @@ Description:This program fix Mustang-F100-A10 can not be recognized in some moth
 # Mustang-F100_MCU_Update
 Description:Tool : Mustang-F100-A10 MCU firmware update tool for users to upadte. (Before program execution, please ensure to connect Mustang-F100-A10 micro USB port to host PC)
 
-# Mustang-F100_MCU_Update/Mustang-F100-R10_MSP430_U65_V1100_A_20200707.txt
+● Mustang-F100_MCU_Update/Mustang-F100-R10_MSP430_U65_V1100_A_20200707.txt
 Description:MCU FW: Mustang-F100-A10 MCU firmware update tool for users to upadte. (Before program execution, please ensure to connect Mustang-F100-A10 micro USB port to host PC)
 
 
